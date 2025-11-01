@@ -1,8 +1,6 @@
 # github-template
 
-An github.io based template repo
-
-Use this project as template to create any new project and follow the same folder settings. pages folder will be used to render in github.io domain.
+This is page folder need to deployed into docs or gh-pages branch based on github settings to render in github.io/projectname/.
 
 ├── code # source code place under here.
 ├── docs # place index.html file under this folder to load it in github.io under project page.
